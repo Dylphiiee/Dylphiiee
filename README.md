@@ -25,11 +25,6 @@ I hope this space brings a smile to your face, sparks your imagination, and remi
 
 <img src="./spotify.png" width="900">
 <p align="center">
-  <a href="https://music.apple.com/id/album/merindumu-lagi/1825344316?i=1825344323&l=id&ls" target="_blank">
-    <img src="https://img.shields.io/badge/%20Click%20to%20Listen%20on%20Apple%20Music-333333?style=flat&logo=applemusic&logoColor=FA243C&labelColor=333333&logoWidth=20" width="90%" alt="Apple Music Rounded Badge"/>
-  </a>
-</p>
-<p align="center">
   <a href="https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l?si=7R3QKl68RoGUQM2ehPYs3A" target="_blank">
     <img src="https://img.shields.io/badge/%20Click%20to%20Listen%20on%20Spotify-333333?style=flat&logo=spotify&logoColor=1DB954&labelColor=333333&logoWidth=20" width="90%" alt="Spotify Rounded Badge"/>
   </a>
