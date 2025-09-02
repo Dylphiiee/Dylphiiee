@@ -23,7 +23,8 @@ I hope this space brings a smile to your face, sparks your imagination, and remi
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Activity😆
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-<a href="https://github.com/Dylphiiee" target="_blank">
+<a href="https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l?si=7R3QKl68RoGUQM2ehPYs3A" target="_blank">
   <img src="./spotify.png" width="900">
 </a>
+<p>click image to song</p>
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
